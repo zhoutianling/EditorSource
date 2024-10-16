@@ -1,14 +1,1 @@
-[
-  {
-    "id": "0:3",
-    "name": "Time 1",
-    "thumbnail": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/01c131c6-76ad-4b5d-80e5-f67de9959894",
-    "url": "https://github.com/zhoutianling/editor-resource/raw/main/template/Time 1.zip"
-  },
-  {
-    "id": "0:24",
-    "name": "Time 2",
-    "thumbnail": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/aff99a13-312c-4af3-b6f3-8a1032f837b1",
-    "url": "https://github.com/zhoutianling/editor-resource/raw/main/template/Time 2.zip"
-  }
-]
+[{"id":"Time 1","name":"Time 1","thumbnail":"https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/01c131c6-76ad-4b5d-80e5-f67de9959894","url":"https://github.com/zhoutianling/editor-resource/raw/main/Time 1.zip"},{"id":"Time 2","name":"Time 2","thumbnail":"https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/aff99a13-312c-4af3-b6f3-8a1032f837b1","url":"https://github.com/zhoutianling/editor-resource/raw/main/Time 2.zip"}]
